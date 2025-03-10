@@ -21,7 +21,7 @@ else:
 
 
 # Przykładowy tekst zawierający adresy e-mail
-tekst = "Kontakt: jan.kowalski@example.com, anna.nowak@domena.org oraz info@firma.pl"
+tekst = "Kontakt: jan.kowalski@example.com, anna.nowak@domena.org oraz info@firma.pl, Tutaj mamy przykładowy tekst zaw"
 
 # Wzorzec wyrażenia regularnego do dopasowania adresów e-mail:
 # \b       - granica słowa
