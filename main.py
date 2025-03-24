@@ -32,7 +32,7 @@ tekst = "Kontakt: jan.kowalski@example.com, anna.nowak@domena.org oraz info@firm
 # \w+      - jedna lub więcej liter lub cyfr
 # \b       - granica słowa
 # zapis wzorca poprzedzając go r (raw) pozwala interpretować tekst dosłownie
-# bez r trzeba by robić uwielnienie od \ w postaci \\
+# bez r trzeba by robić uwolnienie od \ w postaci \\
 wzorzec = r'\b[\w.-]+@[\w.-]+\.\w+\b'
 
 # Znajdujemy wszystkie adresy e-mail w tekście
